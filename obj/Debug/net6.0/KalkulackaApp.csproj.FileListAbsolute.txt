@@ -1,0 +1,45 @@
+D:\Source22\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.exe
+D:\Source22\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.deps.json
+D:\Source22\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.runtimeconfig.json
+D:\Source22\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.dll
+D:\Source22\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.pdb
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.csproj.AssemblyReference.cache
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.AssemblyInfoInputs.cache
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.AssemblyInfo.cs
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.csproj.CoreCompileInputs.cache
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.dll
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\refint\KalkulackaApp.dll
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.pdb
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.genruntimeconfig.cache
+D:\Source22\KalkulackaApp\obj\Debug\net6.0\ref\KalkulackaApp.dll
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.exe
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.deps.json
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.runtimeconfig.json
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.dll
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.pdb
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.csproj.AssemblyReference.cache
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.AssemblyInfoInputs.cache
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.AssemblyInfo.cs
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.dll
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\refint\KalkulackaApp.dll
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.pdb
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.genruntimeconfig.cache
+C:\Users\david\Downloads\kalkulackaApp\KalkulackaApp\obj\Debug\net6.0\ref\KalkulackaApp.dll
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.exe
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.deps.json
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.runtimeconfig.json
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.dll
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\bin\Debug\net6.0\KalkulackaApp.pdb
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.csproj.AssemblyReference.cache
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.AssemblyInfoInputs.cache
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.AssemblyInfo.cs
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.csproj.CoreCompileInputs.cache
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.dll
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\refint\KalkulackaApp.dll
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.pdb
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\KalkulackaApp.genruntimeconfig.cache
+C:\Users\betin\OneDrive\Plocha\Testováni v C#\KalkulackaApp\obj\Debug\net6.0\ref\KalkulackaApp.dll
